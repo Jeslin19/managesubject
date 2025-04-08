@@ -43,3 +43,11 @@ table th, table td {
     text-align: left;
     border: 1px solid #ddd;
 }
+.breadcrumb-link {
+    color: blue;
+    text-decoration: none;
+}
+
+.breadcrumb-link:hover {
+    text-decoration: underline;
+}
